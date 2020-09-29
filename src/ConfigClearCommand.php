@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Console\Commands;
+namespace AdamTyn\Lumen\Artisan;
 
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;
